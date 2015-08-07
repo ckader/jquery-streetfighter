@@ -51,6 +51,23 @@ body{
     background-repeat: no-repeat;
 }
 
+.throw-text, .cool-text{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 2em;
+}
+
+.throw-text{
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+
+.cool-text{
+    position: absolute;
+    top: 240px;
+    left: 800px;
+}
+
 .hadouken{
     background-image: url('../images/hadouken.gif');
     width: 156px;
